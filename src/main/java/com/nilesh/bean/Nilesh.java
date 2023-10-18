@@ -1,9 +1,11 @@
 package com.nilesh.bean;
 
 public class Nilesh {
-	//added 301 feature
+	//added 300 feature
+  //added 301 feature
 	public static void main(String[] args) {
-	float b = 10;	
+	int a = 10;
+  float b = 10;
 	}
 
 }
